@@ -1,3 +1,5 @@
+package week2;
+
 public class DataConversionExample {
     public static void main(String[] args) {
         // Assignment Conversions - Widening (automatic, magnitude preserved)
